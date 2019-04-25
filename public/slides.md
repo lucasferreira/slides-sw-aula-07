@@ -256,4 +256,4 @@ class: center, middle
 
 ## DEMO TIME 🤓
 
-.center[.gif-img[![Boooom!](./img/cryng.gif)]]
+.center[.gif-img[![Boooom!](./img/olokinho-meu.jpg)]]
