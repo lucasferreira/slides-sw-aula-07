@@ -1,0 +1,19 @@
+{
+  "name": "slides-sw-aula-07",
+  "version": "0.1.0",
+  "description": "Slides das Aulas de Soluções WEB do Curso de Eng. da Comp. SATC",
+  "main": "server.js",
+  "repository": "https://github.com/lucasferreira/slides-sw-aula-04.git",
+  "author": "Lucas Ferreira <lucas.ferreira@satc.edu.br> (http://www.satc.edu.br)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "./node_modules/.bin/decktape http://localhost:3000 dist/slides.pdf",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "decktape": "^2.9.2",
+    "finalhandler": "^1.1.1",
+    "serve-static": "^1.13.2"
+  }
+}
