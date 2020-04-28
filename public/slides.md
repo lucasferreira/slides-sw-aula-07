@@ -49,13 +49,13 @@ Um **servidor web estático** consiste em um computador (hardware) com um servid
 
 --
 
-Um **servidor web dinâmico** consiste em um servidor web estático com software adicional, mais comumente um servidor de aplicações (application server) e um banco de dados (database). É chamado "dinâmico" porque o servidor de aplicações atualiza os arquivos hospedados antes de enviá-los ao navegador através do servidor HTTP.
+Um **servidor web dinâmico** consiste em um servidor web estático com software adicional, mais comumente um servidor de aplicações (application server) e possivelmente um banco de dados (database). É chamado "dinâmico" porque o servidor de aplicações atualiza os arquivos hospedados antes de enviá-los ao navegador através do servidor HTTP.
 
 ---
 
 Dois dos servidores HTTP mais populares do mercado são o **Apache HTTP Server (httpd)** e o **NGINX**.
 
-De acordo com a pesquisa 2019 da `NetCraft` o qual monitorou **mais de 1.445.266.139** websites ao longo de 2018 a maioria dos servidores hoje usam o servidor HTTP **NGINX**.
+De acordo com a pesquisa 2019 da `NetCraft` o qual monitorou **mais de 1.246.121.153** websites ao longo de 2019 a maioria dos servidores hoje usam o servidor HTTP **NGINX**.
 
 .center[.pesquisa-img[![WebServer!](./img/pesquisa.png)]]
 

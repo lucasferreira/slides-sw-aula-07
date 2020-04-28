@@ -1,9 +1,9 @@
 {
   "name": "slides-sw-aula-07",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Slides das Aulas de Soluções WEB do Curso de Eng. da Comp. SATC",
   "main": "server.js",
-  "repository": "https://github.com/lucasferreira/slides-sw-aula-04.git",
+  "repository": "https://github.com/lucasferreira/slides-sw-aula-07.git",
   "author": "Lucas Ferreira <lucas.ferreira@satc.edu.br> (http://www.satc.edu.br)",
   "license": "MIT",
   "private": true,
