@@ -55,7 +55,7 @@ Um **servidor web dinâmico** consiste em um servidor web estático com software
 
 Dois dos servidores HTTP mais populares do mercado são o **Apache HTTP Server (httpd)** e o **NGINX**.
 
-De acordo com a pesquisa 2019 da `NetCraft` o qual monitorou **mais de 1.246.121.153** websites ao longo de 2019 a maioria dos servidores hoje usam o servidor HTTP **NGINX**.
+De acordo com a pesquisa 2020 da `NetCraft` o qual monitorou **mais de 1.212.139.815** websites ao longo de 2020 a maioria dos servidores hoje usam o servidor HTTP **NGINX**.
 
 .center[.pesquisa-img[![WebServer!](./img/pesquisa.png)]]
 
@@ -255,5 +255,3 @@ ssh usuario@ip-do-servidor
 class: center, middle
 
 ## DEMO TIME 🤓
-
-.center[.gif-img[![Boooom!](./img/olokinho-meu.jpg)]]
